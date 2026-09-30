@@ -1,0 +1,6 @@
+{
+  "name": "RT Fogões - Conserto e Manutenção a Domicílio em Porto Alegre",
+  "description": "Landing page moderna e de alta conversão para a RT Fogões: conserto e manutenção de fogões domésticos e industriais, cooktops e fornos em Porto Alegre com garantia e atendimento rápido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
